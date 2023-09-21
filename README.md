@@ -2,4 +2,11 @@
  
 wordle hw for codepath
 
-<a href="https://www.loom.com/share/e765ea3a4241491196065993f73bf9d0?sid=f064fd7e-5a33-493e-ad6d-633911187d35">
+<div>
+    <a href="https://www.loom.com/share/e765ea3a4241491196065993f73bf9d0">
+      <p>Understanding Program Control in Throw and Patch - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e765ea3a4241491196065993f73bf9d0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e765ea3a4241491196065993f73bf9d0-with-play.gif">
+    </a>
+  </div>
