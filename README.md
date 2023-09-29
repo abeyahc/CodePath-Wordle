@@ -26,8 +26,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-<div style="position: relative; padding-bottom: 213.01775147928996%; height: 0;"><iframe src="https://www.loom.com/embed/e3a392cd197842739dca9be51f9c2dee?sid=891aae0d-4b91-4621-8b2a-389508744817" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/e3a392cd197842739dca9be51f9c2dee">
+      <p>Simulator - iPhone 14 Pro - 28 September 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e3a392cd197842739dca9be51f9c2dee">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e3a392cd197842739dca9be51f9c2dee-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
